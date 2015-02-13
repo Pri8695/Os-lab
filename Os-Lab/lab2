@@ -1,0 +1,51 @@
+1.	!! -  shows and executes the last command
+2.	seq – gives the sequence till that number
+3.	hostname – gives the name of the host
+4.	uname -n – to print the node name
+5.	sudo shutdown -r (time) – reboots the systems in the given time
+6.	diff – to compare 2 files line by line 
+syntax: diff filename.txt filename.txt 
+7.	du – shows the directories and the disk space that it uses
+8.	df – gives the details of the file system and the disk space used by each file
+9.	who – dives data
+10.	who -H – gives information
+11.	vi – virtual editor (Warning: Output is not to a terminal)
+12.	who am I – gives the system name and the logged in time
+13.	fsck – checks and repairs linux file system (Cannot continue, aborting)
+14.	sudo – s – to become a root user
+15.	sudo passwd root – to change the password
+16.	whereis – locate the binary, source, and manual pages for a command
+17.	cpio – copy files to and from the archive (command not found)
+18.	lpinfo – show available drivers or devices (command not found)
+19.	iw – show / manipulate wireless devices and their configuration (command not found)
+20.	rev – pick out and massage parameters (stops the cursor) 
+21.	chown – change file owner and group information (command not found) 
+22.	enable
+23.	last – list of users logged in  
+24.	sort- sorts the data of the text file
+25.	unexpand- a group of 5 spaces is converted into a tab
+26.	yes – keeps on printing whatever we pass as a parameter in an infinite loop (not to be run)
+27.	sync – flushes file system buffers (ignoring all arguments)
+28.	ifconfig – configure a system interface (command not found)
+29.	startx - opens an X window to exit use ctrl+alt+F7
+30.	ps -u (username) – shows the ports
+31.	who -b – shows the last system boot
+32.	uname –a - 
+33.	free – shows the memory and cache used and free space
+34.	init
+35.	sdiff – side by side merge of file differences 
+36.	screen – clears the terminal
+37.	screen c – creates a virtual terminal
+38.	cal – shows the calendar
+39.	watch- it is used to execute binary programs in full screen periodically (error on terminal)
+40.	bzip2 – it compresses and decompresses data
+41.	lsusb –tv – gives the usb status (no such file or directory)
+42.	head (textfile) -
+43.	tail (textfile) -
+44.	top – (stops the cursor)
+45.	dmesg -
+46.	free -m – shows space in megabytes
+47.	jobs – (no output)
+48.	cat – cursor stopped
+49.	node – command not found
+50.	rt – command not found
